@@ -1,0 +1,11 @@
+0 Afternoon
+1 Evening
+2 Good
+3 Hello
+4 I love you
+5 Nice
+6 No
+7 Please
+8 Thank you
+9 Today
+10 Yes

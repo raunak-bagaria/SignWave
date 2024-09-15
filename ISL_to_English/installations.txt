@@ -1,0 +1,11 @@
+deadsnakes/ppa repo (to install python 3.8)
+Install the following inside python 3.8 virtual environment :
+tensorflow 2.3.0
+keras 2.4.0
+opencv-contrib-python
+cvzone
+numpy <1.19.0,>=1.16.0 (I used 1.18.5)
+mediapipe
+protobuf 3.20
+scipy 1.4.1
+matplotlib 3.2.2
